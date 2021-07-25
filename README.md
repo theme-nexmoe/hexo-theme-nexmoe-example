@@ -8,4 +8,4 @@
 5. `hexo server` 在本地运行
 
 # 在线预览
-https://hexo-theme-nexmoe-example.vercel.app/
+- https://hexo-theme-nexmoe-example.vercel.app/
