@@ -9,3 +9,5 @@
 
 # 在线预览
 - https://hexo-theme-nexmoe-example.vercel.app/
+
+[![Powered By Vercel](https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg "Powered By Vercel")](https://vercel.com/?utm_source=theme-nexmoe&utm_campaign=oss "Powered By Vercel")
