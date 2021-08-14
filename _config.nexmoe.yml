@@ -140,4 +140,4 @@ widgetLink: #链接组件
     link : <url>
 
 # 自定义侧边栏尾部内容
-sidebar: '<br><a target="_blank" href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral"><img src="https://i.dawnlab.me/c0268c1e6cfd0863d6ba35be1575941a.png" width="150px"></a><script data-ad-client="ca-pub-2058306854838448" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>'
+sidebar: '<br><a href="https://vercel.com/?utm_source=theme-nexmoe&amp;utm_campaign=oss" title="Powered By Vercel" rel="nofollow"><img src="https://camo.githubusercontent.com/37b009b52b3a9af7886f52e75cd76d1b32fef331ab1dc2108089c0ced0b7635f/68747470733a2f2f7777772e6461746f636d732d6173736574732e636f6d2f33313034392f313631383938333239372d706f77657265642d62792d76657263656c2e737667" alt="Powered By Vercel" title="Powered By Vercel" data-canonical-src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" width="150px"></a><script data-ad-client="ca-pub-2058306854838448" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>'

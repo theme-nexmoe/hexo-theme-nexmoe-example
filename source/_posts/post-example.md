@@ -12,6 +12,8 @@ categories:
 
 显示在首页的内容
 
+[![Powered By Vercel](https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg "Powered By Vercel")](https://vercel.com/?utm_source=theme-nexmoe&utm_campaign=oss "Powered By Vercel")
+
 <!--more-->
 
 # 一级标题
