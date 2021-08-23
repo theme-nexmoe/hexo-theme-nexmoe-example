@@ -5,7 +5,8 @@
 2. Clone 这个项目到你的电脑上
 3. `npm install hexo-cli -g` 安装 Hexo
 4. 运行 `npm install` 安装依赖
-5. `hexo server` 在本地运行
+5. 运行 `npm i hexo-wordcount` 安装依赖
+6. `hexo server` 在本地运行
 
 # 在线预览
 - https://hexo-theme-nexmoe-example.vercel.app/
