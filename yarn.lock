@@ -790,9 +790,9 @@ hexo-server@^3.0.0:
     serve-static "^1.14.1"
 
 hexo-theme-nexmoe@latest:
-  version "3.2.10"
-  resolved "https://registry.yarnpkg.com/hexo-theme-nexmoe/-/hexo-theme-nexmoe-3.2.10.tgz#810dcc4584538d2b1d93b00d78b2234579c21e89"
-  integrity sha512-EO4UEY86KqHuYWzF5N91xWhmSyyECw7b1DiJI3nHaJQ5cRRbl0W4VtcW9oLwtkMeyofXdRNz47p4A7Rg4UG6DA==
+  version "4.1.4"
+  resolved "https://registry.yarnpkg.com/hexo-theme-nexmoe/-/hexo-theme-nexmoe-4.1.4.tgz#b6631bf8c77bed75699ceda5b606d4cdd665ac07"
+  integrity sha512-RB4Vj02zmtwIrbGMXHYZwmU5MHFrhAbxinRZYBi4ltcWd+XmsLa0wIHdtfsDsHVXbbHH7aLV2t6TsKitZsqNUg==
   dependencies:
     hexo-generator-json-content "^4.2.3"
 
